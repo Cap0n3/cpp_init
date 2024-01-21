@@ -13,7 +13,7 @@ if [ "$1" == "--help" ]; then
     echo "This script creates a basic C++ project structure in the current directory."
     echo
     echo "Options:"
-    echo "  --vscode   Open VS Code after creating the project structure."
+    echo "  --vscode   Open VS Code after creating the project structure with a boilerplate tasks.json."
     echo
     echo "Project Structure:"
     echo "  src/      - Source code (.cpp)"
