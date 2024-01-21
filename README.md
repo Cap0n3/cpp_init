@@ -1,6 +1,6 @@
 # cpp_project_init
 
-This script is designed to initialize a C++ project with a basic directory structure and configuration files.
+This script is designed to initialize a C++ project with a basic directory structure.
 
 ## Usage
 
