@@ -31,5 +31,5 @@ Here's a brief description of each directory:
 
 ## Optional parameters
 
-- `--help ` - Display help
+- `--help ` - Display help.
 - `--vscode` - Open VS Code after creating the project structure with a boilerplate `tasks.json` file.
